@@ -1,0 +1,454 @@
+{
+  "name": "9mm Swap Default List",
+  "timestamp": "2022-01-26T11:45:09Z",
+  "version": {
+    "major": 4,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "/images/pls.svg",
+  "keywords": ["9mm", "default"],
+  "tokens": [
+    {
+      "name": "Hedron S'mores Address",
+      "symbol": "HSA",
+      "address": "0xe1d32634516926F0A440ef42b8fCD9fefe71ADBE",
+      "chainId": 369,
+      "decimals": 8,
+      "logoURI": "https://tokens.9mm.pro/pulse/0xe1d32634516926F0A440ef42b8fCD9fefe71ADBE.png"
+    },
+    {
+      "name": "Never Broke Again",
+      "symbol": "NBA",
+      "address": "0x93Ad3C61f5e39c0DA07fCEbAe0261eAA2d3A9314",
+      "chainId": 369,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/pulse/0x93Ad3C61f5e39c0DA07fCEbAe0261eAA2d3A9314.png"
+    },
+    {
+      "name": "HOAX",
+      "symbol": "HOAX",
+      "address": "0x4CB4eDdE04772332a42ECb039f3790e17733B4B8",
+      "chainId": 369,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/pulse/0x4CB4eDdE04772332a42ECb039f3790e17733B4B8.png"
+    },
+    {
+      "name": "Enigma404",
+      "symbol": "Enigma404",
+      "address": "0x51AD4671492dcf0544506f1Fe13C82c1Fb874FA2",
+      "chainId": 369,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/pulse/0x51AD4671492dcf0544506f1Fe13C82c1Fb874FA2.png"
+    },
+    {
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "address": "0x6982508145454Ce325dDbE47a25d4ec3d2311933",
+      "chainId": 369,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/pulse/0x6982508145454Ce325dDbE47a25d4ec3d2311933.png"
+    },
+    {
+      "name": "Degen Anonymous",
+      "symbol": "ANON",
+      "address": "0x075F7F657AEAD0e698EDb4E0A47d1DEF869536B4",
+      "chainId": 369,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/pulse/0x075F7F657AEAD0e698EDb4E0A47d1DEF869536B4.png"
+    },
+    {
+      "name": "ALL TIME HIGH",
+      "symbol": "ATH",
+      "address": "0x2Ca480415aB96caf6e3EB0A8687E89EdBAB1DF4c",
+      "chainId": 369,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/pulse/0x2Ca480415aB96caf6e3EB0A8687E89EdBAB1DF4c.png"
+    },
+    {
+      "name": "Solid X",
+      "symbol": "SOLIDX",
+      "address": "0x8Da17Db850315A34532108f0f5458fc0401525f6",
+      "chainId": 369,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/pulse/0x8Da17Db850315A34532108f0f5458fc0401525f6.png"
+    },
+    {
+      "name": "Make Ethereum Great Again",
+      "symbol": "MEGA",
+      "address": "0x8eDb13CE75562056DFf2221D193557Fb4A05770D",
+      "chainId": 369,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/pulse/0x8eDb13CE75562056DFf2221D193557Fb4A05770D.png"
+    },
+    {
+      "name": "Kakadu",
+      "symbol": "Kakadu",
+      "address": "0x46565877E756b2ACca78faf2F7FF558DafbdD3E4",
+      "chainId": 369,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/pulse/0x46565877E756b2ACca78faf2F7FF558DafbdD3E4.png"
+    },
+    {
+      "name": "NeckBeard Coin",
+      "symbol": "NBC",
+      "address": "0xc9f523Fce37A28893A83Da68BbA03835D97Ae059",
+      "chainId": 369,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/pulse/0xc9f523Fce37A28893A83Da68BbA03835D97Ae059.png"
+    },
+    {
+      "name": "Glass",
+      "symbol": "Glass",
+      "address": "0xd687FF2C9C5294f4A2bC0300B46eA921dB312063",
+      "chainId": 369,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/pulse/0xd687FF2C9C5294f4A2bC0300B46eA921dB312063.png"
+    },
+    {
+      "name": "BOBO",
+      "symbol": "BOBO",
+      "address": "0x645c33E6ecC5e5FD67Bcc248cAd29B1950E469C6",
+      "chainId": 369,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/pulse/0x645c33E6ecC5e5FD67Bcc248cAd29B1950E469C6.png"
+    },
+    {
+      "name": "HONK",
+      "symbol": "HONK",
+      "address": "0x138568b12b027fA604Ad1d2259A6785ff1B8f8CF",
+      "chainId": 369,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/pulse/0x138568b12b027fA604Ad1d2259A6785ff1B8f8CF.png"
+    },
+    {
+      "name": "CAPSLOCKGANG",
+      "symbol": "CLG",
+      "address": "0x9b279454E850f7BcEFf39bd24804AcADDAC50f7E",
+      "chainId": 369,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/pulse/0x9b279454E850f7BcEFf39bd24804AcADDAC50f7E.png"
+    },
+    {
+      "name": "WPLS Token",
+      "symbol": "WPLS",
+      "address": "0xA1077a294dDE1B09bB078844df40758a5D0f9a27",
+      "chainId": 369,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/pulse/0xA1077a294dDE1B09bB078844df40758a5D0f9a27.png"
+    },
+    {
+      "name": "Peppa",
+      "symbol": "PEPPA",
+      "address": "0x93Cf7d72333Fe9faEb9D455b82A4c85D7F0609aa",
+      "chainId": 369,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/pulse/0x93Cf7d72333Fe9faEb9D455b82A4c85D7F0609aa.png"
+    },
+    {
+      "name": "TETRA",
+      "symbol": "TETRA",
+      "address": "0xAeC4C07537B03E3E62fc066EC62401Aed5Fdd361",
+      "chainId": 369,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/pulse/0xAeC4C07537B03E3E62fc066EC62401Aed5Fdd361.png"
+    },
+    {
+      "name": "PHUX",
+      "symbol": "PHUX",
+      "address": "0x9663c2d75ffd5F4017310405fCe61720aF45B829",
+      "chainId": 369,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/pulse/0x9663c2d75ffd5F4017310405fCe61720aF45B829.png"
+    },
+    {
+      "name": "HOA",
+      "symbol": "HOA",
+      "address": "0x7901a3569679AEc3501dbeC59399F327854a70fe",
+      "chainId": 369,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/pulse/0x7901a3569679AEc3501dbeC59399F327854a70fe.png"
+    },
+    {
+      "name": "LOAN",
+      "symbol": "LOAN",
+      "address": "0x9159f1D2a9f51998Fc9Ab03fbd8f265ab14A1b3B",
+      "chainId": 369,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/pulse/0x9159f1D2a9f51998Fc9Ab03fbd8f265ab14A1b3B.png"
+    },
+    {
+      "name": "OG.INCENTIVE",
+      "symbol": "OG",
+      "address": "0xF84b84dAAce6Ac00DbBAed26CA32Ff3570Aaf66C",
+      "chainId": 369,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/pulse/0xF84b84dAAce6Ac00DbBAed26CA32Ff3570Aaf66C.png"
+    },
+    {
+      "name": "PUSSY CAT",
+      "symbol": "PUSSY",
+      "address": "0x733099917CbA30614e4b2ef1de8A551645665143",
+      "chainId": 369,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/pulse/0x733099917CbA30614e4b2ef1de8A551645665143.png"
+    },
+    {
+      "name": "TANGent Golden Yacht",
+      "symbol": "YACHT",
+      "address": "0xdB8E20f794Fa48d36Ae4988dC3D5Ba327df625f8",
+      "chainId": 369,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/pulse/0xdB8E20f794Fa48d36Ae4988dC3D5Ba327df625f8.png"
+    },
+    {
+      "name": "pCOM",
+      "symbol": "pCOM",
+      "address": "0x5A9780Bfe63f3ec57f01b087cD65BD656C9034A8",
+      "chainId": 369,
+      "decimals": 12,
+      "logoURI": "https://tokens.9mm.pro/pulse/0x5A9780Bfe63f3ec57f01b087cD65BD656C9034A8.png"
+    },
+    {
+      "name": "eCOM",
+      "symbol": "eCOM",
+      "address": "0x0195D5990a7D6d7Ee7a3A4610E357bB660494BA0",
+      "chainId": 369,
+      "decimals": 12,
+      "logoURI": "https://tokens.9mm.pro/pulse/0x0195D5990a7D6d7Ee7a3A4610E357bB660494BA0.png"
+    },
+    {
+      "name": "TYRH",
+      "symbol": "TYRH",
+      "address": "0xc91562626B9a697af683555dA9946986278Ac9a5",
+      "chainId": 369,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/pulse/0xc91562626B9a697af683555dA9946986278Ac9a5.png"
+    },
+    {
+      "name": "HDRN",
+      "symbol": "HDRN",
+      "address": "0x3819f64f282bf135d62168C1e513280dAF905e06",
+      "chainId": 369,
+      "decimals": 9,
+      "logoURI": "https://tokens.9mm.pro/pulse/0x3819f64f282bf135d62168C1e513280dAF905e06.png"
+    },
+    {
+      "name": "ICSA",
+      "symbol": "ICSA",
+      "address": "0xfc4913214444aF5c715cc9F7b52655e788A569ed",
+      "chainId": 369,
+      "decimals": 9,
+      "logoURI": "https://tokens.9mm.pro/pulse/0xfc4913214444aF5c715cc9F7b52655e788A569ed.png"
+    },
+    {
+      "name": "LOVE",
+      "symbol": "LOVE",
+      "address": "0xb55EE890426341FE45EE6dc788D2D93d25B59063",
+      "chainId": 369,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/pulse/0xb55EE890426341FE45EE6dc788D2D93d25B59063.png"
+    },
+    {
+      "name": "pHEX",
+      "symbol": "pHEX",
+      "address": "0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39",
+      "chainId": 369,
+      "decimals": 8,
+      "logoURI": "https://tokens.9mm.pro/pulse/0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39.png"
+    },
+    {
+      "name": "eHEX",
+      "symbol": "eHEX",
+      "address": "0x57fde0a71132198BBeC939B98976993d8D89D225",
+      "chainId": 369,
+      "decimals": 8,
+      "logoURI": "https://tokens.9mm.pro/pulse/0x57fde0a71132198BBeC939B98976993d8D89D225.png"
+    },
+    {
+      "name": "ATROPA",
+      "symbol": "ATROPA",
+      "address": "0xCc78A0acDF847A2C1714D2A925bB4477df5d48a6",
+      "chainId": 369,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/pulse/0xCc78A0acDF847A2C1714D2A925bB4477df5d48a6.png"
+    },
+    {
+      "name": "uP",
+      "symbol": "uP",
+      "address": "0x131bF51e864024DF1982F2cd7B1C786e1A005152",
+      "chainId": 369,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/pulse/0x131bF51e864024DF1982F2cd7B1C786e1A005152.png"
+    },
+    {
+      "name": "uPX",
+      "symbol": "uPX",
+      "address": "0x664E58570e5835B99d281f12dD14d350315D7E2a",
+      "chainId": 369,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/pulse/0x664E58570e5835B99d281f12dD14d350315D7E2a.png"
+    },
+    {
+      "name": "TIME",
+      "symbol": "TIME",
+      "address": "0xCA35638A3fdDD02fEC597D8c1681198C06b23F58",
+      "chainId": 369,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/pulse/0xCA35638A3fdDD02fEC597D8c1681198C06b23F58.png"
+    },
+    {
+      "name": "BEET",
+      "symbol": "BEET",
+      "address": "0xeDA0073B4Aa1b1B6f9c718c3036551ab46E5Ec32",
+      "chainId": 369,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/pulse/0xeDA0073B4Aa1b1B6f9c718c3036551ab46E5Ec32.png"
+    },
+    {
+      "name": "PHAME",
+      "symbol": "PHAME",
+      "address": "0x8854bC985fB5725F872c8856bEA11B917cAEb2fE",
+      "chainId": 369,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/pulse/0x8854bC985fB5725F872c8856bEA11B917cAEb2fE.png"
+    },
+    {
+      "name": "9INCH",
+      "symbol": "9INCH",
+      "address": "0x3ca80d83277e721171284667829c686527B8b3c5",
+      "chainId": 369,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/pulse/0x3ca80d83277e721171284667829c686527B8b3c5.png"
+    },
+    {
+      "name": "CHIITAN",
+      "symbol": "CHIITAN",
+      "address": "0xabeb72F153e050B3F8cCa3DD93fe1eEaD51123DB",
+      "chainId": 369,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/pulse/0xabeb72F153e050B3F8cCa3DD93fe1eEaD51123DB.png"
+    },
+    {
+      "name": "RicHoord hArt",
+      "symbol": "HART",
+      "address": "0xD11f64ced78fd0235433fB737c992781E5Ce0C82",
+      "chainId": 369,
+      "decimals": 9,
+      "logoURI": "https://tokens.9mm.pro/pulse/0xD11f64ced78fd0235433fB737c992781E5Ce0C82.png"
+    },
+    {
+      "name": "BOOMER",
+      "symbol": "BOOMER",
+      "address": "0x27b67bd4b710C352a5716b77ce1bfc2beb5CA1e2",
+      "chainId": 369,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/pulse/0x27b67bd4b710C352a5716b77ce1bfc2beb5CA1e2.png"
+    },
+    {
+      "name": "Furu Token",
+      "symbol": "FURU",
+      "address": "0x764F1A4e2D5A7D1A32aC0F8B8A109cE831C3dC66",
+      "chainId": 369,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/pulse/0x764F1A4e2D5A7D1A32aC0F8B8A109cE831C3dC66.png"
+    },
+    {
+      "name": "pDAI",
+      "symbol": "pDAI",
+      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "chainId": 369,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/pulse/0x6B175474E89094C44Da98b954EedeAC495271d0F.png"
+    },
+    {
+      "name": "PITEAS",
+      "symbol": "PITEAS",
+      "address": "0x2A06a971fE6ffa002fd242d437E3db2b5cC5B433",
+      "chainId": 369,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/pulse/0x2A06a971fE6ffa002fd242d437E3db2b5cC5B433.png"
+    },
+    {
+      "name": "RHM",
+      "symbol": "RHM",
+      "address": "0x8f1D7d2f81BE5DBd82313BEeDA0877Fb34351756",
+      "chainId": 369,
+      "decimals": 9,
+      "logoURI": "https://tokens.9mm.pro/pulse/0x8f1D7d2f81BE5DBd82313BEeDA0877Fb34351756.png"
+    },
+    {
+      "name": "RHXL",
+      "symbol": "RHXL",
+      "address": "0x0784e455D0a3adb2c02Aa241F029B9fc3F55FA5A",
+      "chainId": 369,
+      "decimals": 9,
+      "logoURI": "https://tokens.9mm.pro/pulse/0x0784e455D0a3adb2c02Aa241F029B9fc3F55FA5A.png"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "address": "0xefD766cCb38EaF1dfd701853BFCe31359239F305",
+      "chainId": 369,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/pulse/0xefD766cCb38EaF1dfd701853BFCe31359239F305.png"
+    },
+    {
+      "name": "PulseX",
+      "symbol": "PLSX",
+      "address": "0x95B303987A60C71504D99Aa1b13B4DA07b0790ab",
+      "chainId": 369,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/pulse/0x95B303987A60C71504D99Aa1b13B4DA07b0790ab.png"
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0x15D38573d2feeb82e7ad5187aB8c1D52810B1f07",
+      "chainId": 369,
+      "decimals": 6,
+      "logoURI": "https://tokens.9mm.pro/pulse/0x15D38573d2feeb82e7ad5187aB8c1D52810B1f07.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0x0Cb6F5a34ad42ec934882A05265A7d5F59b51A2f",
+      "chainId": 369,
+      "decimals": 6,
+      "logoURI": "https://tokens.9mm.pro/pulse/0x0Cb6F5a34ad42ec934882A05265A7d5F59b51A2f.png"
+    },
+    {
+      "name": "Incentive",
+      "symbol": "INC",
+      "address": "0x2fa878Ab3F87CC1C9737Fc071108F904c0B0C95d",
+      "chainId": 369,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/pulse/0x2fa878Ab3F87CC1C9737Fc071108F904c0B0C95d.png"
+    },
+    {
+      "name": "USDL Stablecoin",
+      "symbol": "USDL",
+      "address": "0x0dEEd1486bc52aA0d3E6f8849cEC5adD6598A162",
+      "chainId": 369,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/pulse/0x0dEEd1486bc52aA0d3E6f8849cEC5adD6598A162.png"
+    },
+    {
+      "name": "AxisAlive",
+      "symbol": "AXIS",
+      "address": "0x8BDB63033b02C15f113De51EA1C3a96Af9e8ecb5",
+      "chainId": 369,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/pulse/0x8BDB63033b02C15f113De51EA1C3a96Af9e8ecb5.png"
+    },
+    {
+      "name": "LOAN",
+      "symbol": "LOAN",
+      "address": "0x9159f1D2a9f51998Fc9Ab03fbd8f265ab14A1b3B",
+      "chainId": 369,
+      "decimals": 18,
+      "logoURI": "https://tokens.9mm.pro/pulse/0x9159f1D2a9f51998Fc9Ab03fbd8f265ab14A1b3B.png"
+    }
+  ]
+}
